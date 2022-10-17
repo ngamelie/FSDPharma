@@ -24,3 +24,32 @@
 3. Need assistance / figure things out
 	- Github training
 	- Material Design
+	
+====================================================
+2022/10/13 (Ngan)
+1. Done / not done since last scrum:
+	- setup the github project repository
+	- setup the initial project (install libraries)
+
+2. To do until next Scrum:
+	- Design and implement the main window layout
+	- Design and implement the login window layout
+	- Trello User Story
+	
+3. Need assistance / figure things out
+	- Material Design
+
+2022/10/17 (Ngan)
+1. Done / not done since last scrum:
+	- Design and implement the main window layout
+	- Design and implement the login window layout
+	- Trello User Story
+
+2. To do until next Scrum:
+	- Design and implement the medication admin window layout
+	- Design and implement the user admin window layout
+	- Trello User Story
+	
+3. Need assistance / figure things out
+	- Material Design
+	- MVVM model
